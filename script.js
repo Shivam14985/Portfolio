@@ -25,4 +25,27 @@ function chaties(){
     window.location.href="https://drive.google.com/drive/folders/1waT9xnMZzY3rLflhRTAYiNkdgGQrh-Dy";
 }
 
+//download project1
+function cartDownload(){
+    window.location.href="https://www.upload-apk.com/c0Z35dmyIJkVl8E";
+}
+
+//download project2
+function instagramdown(){
+    window.location.href="https://www.upload-apk.com/f4IEB8zuEXQeQW9";
+}
+
 //download project3
+function downloadyoutube(){
+    window.location.href="https://www.upload-apk.com/NW8aeXJ727rJoOg";
+}
+
+//download project4
+function whatsappdown(){
+    window.location.href="https://www.upload-apk.com/dMqO2nKyNXkabrW";
+}
+
+//contact me
+function contactme(){
+    window.open("mailto:bhardwajshivam667@gmail.com");
+}
