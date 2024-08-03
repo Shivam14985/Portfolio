@@ -37,7 +37,7 @@ function instagramdown(){
 
 //download project3
 function downloadyoutube(){
-    window.location.href="https://www.upload-apk.com/saUyOQrqXdBrDmt";
+    window.location.href="https://www.upload-apk.com/uWW831Y4PFLFWlm";
 }
 
 //download project4
